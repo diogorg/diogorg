@@ -15,7 +15,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    - BACK:<br/>
+    - <b>BACK:</b><br/>
     <a href="https://www.php.net" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
             width="40" height="40" />
@@ -33,7 +33,7 @@
             alt="typescript" width="40" height="40" />
     </a>
     <br/><br/>
-    - FRONT:<br/>
+    - <b>FRONT:</b><br/>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3" width="40" height="40" />
@@ -55,7 +55,7 @@
             alt="javascript" width="40" height="40" />
     </a>
     <br/><br/>
-    - TOOLS:<br/>
+    - <b>TOOLS:</b><br/>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
           alt="docker" width="40" height="40" />
@@ -89,7 +89,7 @@
             width="40" height="40" />
     </a>
     <br/><br/>
-    - DATABASE:<br/>
+    - <b>DATABASE:</b><br/>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
             alt="mongodb" width="40" height="40" />
